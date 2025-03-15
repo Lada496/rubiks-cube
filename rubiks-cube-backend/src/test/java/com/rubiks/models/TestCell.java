@@ -8,7 +8,7 @@ import org.junit.jupiter.api.Test;
 import com.rubiks.rubiks_cube.models.Cell;
 import com.rubiks.rubiks_cube.models.Cell.Color;
 
-public class TestCube {
+public class TestCell {
     private Cell testCell;
 
     @BeforeEach
